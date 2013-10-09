@@ -1,0 +1,17 @@
+Zadanie 4
+
+1.
+"Kupno biletów w sposób tradycyjny."
+Kibic przychodzi do kasy i prosi o 1 bilet w przybli¿onym miejscu, na którym chcia³by byæ. Pani kasjerka sprawdza w specjalnej bazie danych (gdzie s¹ informacje o sprzedawanych biletach), czy odpowiednie miejsce jest dostêpne. Okaza³o siê, ¿e jest wolne, zatem Pani kasjerka drukuje odpowiedni bilet (z kodami identyfikuj¹cymi bilety) i za opdpowiedni¹ cenê sprzedaje go. Kibic odchodzi szczêœliwy i zadowolony.
+
+2.
+"Kupno biletów on-line."
+Dziesiêciu kibiców odpowiednio wczeœnie próbuje kupiæ bilety online. Jeden z nich zak³ada konto na stronie sprzeda¿y. Chc¹ mieæ miejsca obok siebie oraz zni¿kê dla grupy zorganizowanej. W odpowiednim formularzu zapytania sprawdzaj¹, czy s¹ dostêpne bilety z miejscami obok siebie. System szybko informuje o dostêpnoœci dziesiêciu biletów. Kibic rezerwuje bilety, nastêpnie dokonuje p³atnoœci (kart¹ lub przelewem itd.), po czym otrzymuje odpowiednio oznaczone bilety gotowe do druku.
+
+3.
+"Kupno biletów dla rodziny"
+Mê¿czyzna z dwójk¹ synów chce kupiæ bilet przez internet. Zak³ada konto na stronie sprzeda¿y, loguje siê i sprawdza poprzez odpowiedni formularz zapytañ do baz danych, czy dostêpne s¹ 3 bilety "rodzinne" z miejscami obok siebie. Okazuje siê, ¿e s¹ dostêpne, dokonuje rezerwacji. Nie doczytuje jednak regulaminu sprzeda¿y i nie p³aci za bilety w ci¹gu trzech dni od daty rezerwacji. Chce pobraæ dane do wp³aty po piêciu dniach, jednak okazuje siê, ¿e rezerwacja przepad³a, a po¿¹dane bilety zosta³y ju¿ zarezerwowane przez kogoœ innego. Dzieci s¹ smutne, a ojciec wœciek³y. Idzie bezpoœrednio do kasy zrobiæ awanturê, po czym kasjer t³umaczy mu, ¿e post¹pi³ niezgodnie z regulaminem, odsy³a z kwitkiem i ¿yczy mi³ego dnia.
+
+4.
+"Zwrot biletu on-line."
+Pan Kowalski poprosi³ swojego szefa o wolne na sobotni mecz, jednak pracodawca okaza³ siê nieugiêty i mê¿czyzna nie otrzyma³ urlopu. Smutny usiad³ przed komputerem i zalogowa³ siê na swoje konto. W regulaminie sprawdzi³, ¿e mo¿e zwróciæ bilet poprzez wype³nienie odpowiedniego formularza, dziêki któremu b³yskawicznie bilet powróci do bazy danych, ale zostanie mu przypisany inny numer identyfikuj¹cy zwrócony bilet. W ci¹gu dwóch dni roboczych nast¹pi równie¿ zwrot pieniêdzy.
